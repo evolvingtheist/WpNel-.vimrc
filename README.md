@@ -17,13 +17,13 @@ If you would like to use my .vimrc file exactly as it is, follow these steps:
 
 1. Install all dependencies if needed.
 
-2. set up Vundle:
+2. Set up Vundle:
 	git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-3. open Vim and run :PluginInstall
+3. Open Vim and run :PluginInstall
 
-4. inside vim run :GoInstalBinaries
+4. Inside vim run :GoInstalBinaries
 
-5. go to the .vim/plugin/YouCompleteMe directory
+5. Go to the .vim/plugin/YouCompleteMe directory
    run ./install.py --clang-completer
 
