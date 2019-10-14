@@ -1,10 +1,10 @@
 My personal .vimrc is setup mainly for Python, C, and Go
 
 I use the following projects in my .vimrc:
-[Vundle]{https://github.com/VundleVim/Vundle.vim}
-[YouCompleteMe]{https://github.com/ycm-core/YouCompleteMe}
-[vim-go]{https://github.com/fatih/vim-go}
-[SimplyFold]{https://github.com/tmhedberg/SimpylFold}
+[Vundle](https://github.com/VundleVim/Vundle.vim)
+[YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+[vim-go](https://github.com/fatih/vim-go)
+[SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
 The following dependencies are required:
 * build-essential
