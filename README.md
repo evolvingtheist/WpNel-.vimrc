@@ -18,11 +18,11 @@ If you would like to use my .vimrc file exactly as it is, follow these steps or 
 1. Install all dependencies if needed.
 
 2. Set up Vundle:
-* git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+&npsp;&nbsp; * git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 4. Run installation script for YouCompleteMe
-* cd ~/.vim/bundle/YouCompleteMe
-* python3 install.py --clang-compiler 
+&nbsp;&nbsp; * cd ~/.vim/bundle/YouCompleteMe
+&nbsp;&nbsp; * python3 install.py --clang-compiler 
 
 3. Open Vim and run :PluginInstall
 
